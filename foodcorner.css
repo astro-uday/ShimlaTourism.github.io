@@ -1,0 +1,265 @@
+.more{
+  margin:20px 70px;
+  max-height: 600vh;
+}
+.brewstate{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.brew{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.brew img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.brewstate h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.buddy{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+
+}
+.buddy img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.buddys{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.buddys h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.book{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.book img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.bookcafe{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.bookcafe h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.sol{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.sol img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.cafesol{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.cafesol h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.hut{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.hut img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.honeyhut{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.honeyhut h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.city{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.city img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.citypoint{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.citypoint h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.scandal{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.scandal img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.delight{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.delight h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.ws{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.ws img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.wscafe{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.wscafe h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.comb{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.comb img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.mere{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.mere h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}
+.cake{
+  width:220px;
+  height:180px;
+  margin-left: 50px;
+  margin-top: 80px;
+}
+.cake img{
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  box-shadow: 5px 8px 15px #888888;
+}
+.master{
+  width: 500px;
+  height:240px;
+  background-color: #FaF3F3;
+  margin-left: 160px;
+  margin-top: -210px;
+  border-radius: 12px;
+}
+.master h6{
+  margin-top: 20px;
+  font-size: 14px;
+  margin-left: 120px;
+  color:grey;
+}

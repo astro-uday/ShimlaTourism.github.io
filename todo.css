@@ -1,0 +1,232 @@
+*{
+  margin:auto;
+  padding:auto;
+
+}
+header{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.3)), url(shim.jpg);
+  height:9vh;
+  background-size:cover;
+  background-position: center;
+}
+ul{
+  list-style-type: none;
+  list-style-position: outside;
+  float: right;
+  margin-top: 12px !important;
+  margin-right: 20px;
+}
+ul li{
+  display: inline-block;
+}
+ul li a{
+  text-decoration: none !important;
+  border: 1px solid transparent;
+  color: #fff;
+  padding: 4px 18px;
+  border-radius: 3px;
+  font-size: 20px;
+  font-weight: 10px;
+  transition: 0.6s ease;
+
+}
+ul li a:hover{
+  background-color: #fff;
+  color:#000;
+  text-decoration: none !important;
+}
+.logo img{
+  float:left;
+  width:100px;
+  height: auto;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+.hello{
+  max-width: 1600px;
+  margin: auto;
+}
+.first{
+  width:20%;
+  max-width:23%;
+  height: 280px;
+  border-radius: 6px;
+  margin-right:78%;
+  margin-top: 14px;
+  color: black;
+ transition: .3s ease;
+ text-decoration: none !important;
+}
+.first img{
+  width:100%;
+  height: 140px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+
+}
+.toodo{
+  margin: 8px 20px;;
+  border-top: .1px solid lightgrey;
+padding: 15px ;
+max-height: 700vh;
+}
+.first:hover {
+    box-shadow: 5px 8px 15px #888888;
+    text-decoration: none !important;
+}
+.second{
+  color: black;
+  width:20%;
+  max-width:23%;
+  height: 280px;
+  border-radius: 6px;
+  margin-right:56%;
+  margin-top: -280px;
+  transition: .3s ease;
+}
+.second:hover{
+    box-shadow: 5px 8px 15px #888888;
+      text-decoration: none;
+}
+.second img{
+  width:100%;
+  height: 140px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+
+}
+.third{
+  color: black;
+  width:20%;
+  max-width:23%;
+  height: 280px;
+  border-radius: 6px;
+  margin-right:34%;
+  margin-top: -280px;
+  transition: .3s ease;
+}
+.third img{
+  width:100%;
+  height: 140px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.third:hover{
+  box-shadow: 5px 8px 15px #888888;
+    text-decoration: none;
+}
+.images:hover{
+  text-decoration: none;
+}
+
+.footerr{
+  height: 300px;
+  background-color: #303036;
+  color:#d3d3d3;
+  position: relative;
+}
+.footerr .footer-foot{
+  background-color: #343a40;
+  color: #686868;
+  height: 50px;
+   position: absolute;
+   text-align: center;
+   bottom: 0px;
+   left: 0;
+   padding-top: 20px;
+   width: 100%;
+}
+.footerr .footer_content{
+
+  height:280px;
+  width:34%;
+  margin-left: 20px;
+}
+.footerr .footer_content h1{
+margin-left: 20px;
+margin-top: 20px;
+font-weight: 1.3rem;
+font-style: arial;
+color: white;
+
+}
+.footerr .footer_content h4{
+  margin-left: 20px;
+  font-style: arial;
+  color: grey;
+  margin-top: 10px;
+  font-size:14px;
+}
+.footerr .footer_content h5{
+  margin-top: 40px;
+margin-left: 20px;
+font-size: 12px;
+}
+.footerr .footer_content h6{
+  margin-top: 19px;
+  margin-left: 30px;
+  font-size: 15px;
+ padding: 8px;
+}
+.footerr .footer_content h6 a{
+  text-decoration: none;
+  color:white;
+  border: .1px solid white;
+  border-radius: 3px;
+  padding: 4.6px 3.6px;
+  border-width:thin;
+  transition: .3s ease;
+  font-size:
+}
+.footerr .footer_content h6 a:hover{
+  background-color: white;
+  color:#343a40;
+}
+.footerr .footer_content h6 a .fa{
+  width: 12px;
+  padding: 3px;
+  text-align: center;
+  border: .3px solid white;
+  border-radius: 3px;
+
+}
+.footer_links{
+  height: 280px;
+  width: 20%;
+  margin-left:38%;
+  margin-top: -280px;
+}
+.footer_links h3{
+  font-family: arial;
+  font-size: 28px;
+  margin-left: 70px;
+  color: #686868;
+  margin-top: 20px;
+  font-weight: 2rem;
+}
+.footer_links ul li{
+color:darkgrey;
+float: right;
+font-size: 15px;
+transition: .2s ease;
+}
+.footer_links ul {
+  margin-top: 30px;
+  max-height: 200px;
+  font-size: 15px;
+  transition: .2s ease;
+}
+.footer_contact h3{
+  font-family: arial;
+  font-size: 28px;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-weight: 2rem;
+}
+.footer_contact{
+  height: 260px;
+  margin-right: 2%;
+  margin-left:65%;
+  margin-top: -280px;
+    border: 1px solid red;
+}
